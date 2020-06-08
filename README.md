@@ -2,7 +2,7 @@ to install:
 
     cd /your/python/env/path
     git clone https://github.com/j3ygithub/nlp
-    python -m venv /your/python/env/path/nlp
+    python -m venv nlp
     cd nlp
     pip install -r requirements.txt
 

@@ -20,6 +20,6 @@ def index(request):
     return render(request, 'text/index.html', context)
 
 def handler(input_text):
-    """hook of text-handler"""
+    """The Hook of text-handler."""
     result_text = f'hello world, the text is {input_text}'
     return result_text

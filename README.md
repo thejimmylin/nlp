@@ -1,5 +1,10 @@
-The NLP part of https://github.com/j3ygithub/hololink
+# nlp
 
+The **NLP** part of https://github.com/j3ygithub/hololink
+
+This is a **NLP** hook for better co-working on with https://github.com/j3ygithub/hololink
+
+## Usage
 
 to install:
 
@@ -8,7 +13,6 @@ to install:
     python -m venv nlp
     cd nlp
     pip install -r requirements.txt
-
 
 write script here:
 

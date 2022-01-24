@@ -1,15 +1,15 @@
 # nlp
 
-The **NLP** part of https://github.com/j3ygithub/hololink
+The **NLP** part of https://github.com/j3ygh/hololink
 
-This is a **NLP** hook for better co-working on with https://github.com/j3ygithub/hololink
+This is a **NLP** hook for better co-working on with https://github.com/j3ygh/hololink
 
 ## Usage
 
 to install:
 
     cd /your/python/env/path
-    git clone https://github.com/j3ygithub/nlp
+    git clone https://github.com/j3ygh/nlp
     python -m venv nlp
     cd nlp
     pip install -r requirements.txt
